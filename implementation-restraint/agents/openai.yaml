@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implementation Restraint"
+  short_description: "Keep code changes small and justified"
+  default_prompt: "Use $implementation-restraint to implement this change with the smallest justified diff."
